@@ -1,6 +1,6 @@
 [
   {
-    "title":1 "One Piece",
+    "title":3 "One Piece",
     "author": "Eiichiro Oda",
     "genre": "Shonen",
     "description": "Adventure of Monkey D. Luffy",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "title":3 "Attack on Titan",
+    "title":1 "Attack on Titan",
     "author": "Hajime Isayama",
     "genre": "Shonen",
     "description": "Humanity vs. Titans",
