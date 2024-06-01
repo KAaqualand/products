@@ -1,16 +1,78 @@
 [
-    {
-        "title": "အမှတ်စဥ် ၁ - Khkant si Thu",
-        "author": "အနီးကပ်နှင့် အက်ဆေ့",
-        "genre": "ပြင်ပန်းတက်",
-        "description": "အက်ဆေ့နှင့် ပစ်မြင်နိုင်သည်။",
-        "rating": 4.5
-    },
-    {
-        "title": "အမှတ်စဥ် ၂ - အိမ်ပွန်",
-        "author": "အိမ်ပွန်နှင့် ပျက်စီး",
-        "genre": "အခြေအနေ",
-        "description": "အခြေအနေသုံးစွဲလုပ်ရာကိုနှင့် ပျက်စီးနိုင်သည်။",
-        "rating": 4.8
-    }
+  {
+    "title": "One Piece",
+    "author": "Eiichiro Oda",
+    "genre": "Shonen",
+    "description": "Adventure of Monkey D. Luffy",
+    "rating": 4.8,
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Romance Dawn",
+        "pages": 50
+      },
+      {
+        "chapter_number": 2,
+        "title": "Enter Zoro: Pirate Hunter",
+        "pages": 45
+      },
+      {
+        "chapter_number": 3,
+        "title": "Don't Die!",
+        "pages": 55
+      }
+      // Additional chapters can be added here
+    ]
+  },
+  {
+    "title": "Naruto",
+    "author": "Masashi Kishimoto",
+    "genre": "Shonen",
+    "description": "Ninja battles and adventure",
+    "rating": 4.6,
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Uzumaki Naruto",
+        "pages": 40
+      },
+      {
+        "chapter_number": 2,
+        "title": "Konohamaru",
+        "pages": 42
+      },
+      {
+        "chapter_number": 3,
+        "title": "Enter Sasuke",
+        "pages": 38
+      }
+      // Additional chapters can be added here
+    ]
+  },
+  {
+    "title": "Attack on Titan",
+    "author": "Hajime Isayama",
+    "genre": "Shonen",
+    "description": "Humanity vs. Titans",
+    "rating": 4.7,
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "To You, 2000 Years Ago",
+        "pages": 55
+      },
+      {
+        "chapter_number": 2,
+        "title": "That Day",
+        "pages": 48
+      },
+      {
+        "chapter_number": 3,
+        "title": "Night of the Disbanding Ceremony",
+        "pages": 60
+      }
+      // Additional chapters can be added here
+    ]
+  }
 ]
+
